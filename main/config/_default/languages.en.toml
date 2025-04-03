@@ -1,0 +1,36 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Moses Makola"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/moses_picture1.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Moses Makola is a data science MSc student at the University of Leeds and incoming intern at the Alan Turing Institute. He has experience at J.P. Morgan and Global Purpose Enterprise, and has delivered talks on ethical AI and voice translation at major conferences"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+   name = "Moses Makola"
+   email = "mail@mosesmakola.com"
+   image = "img/moses_picture1.png"
+   imageQuality = 100
+   headline = "MSc Data Science (Statistics) | Speaker"
+   bio = "A little bit about you"
+   links = [
+    { linkedin = "https://linkedin.com/in/moses-makola" },
+    { github = "https://github.com/username" },
+    { kaggle-icon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    { medium = "https://medium.com/username" },
+    { email = "mailto:mail@mosesmakola.com" }
+#     { link = "https://link-to-some-website.com/" },
+#     { instagram = "https://instagram.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { youtube = "https://youtube.com/username" }
+   ]
