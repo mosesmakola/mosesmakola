@@ -15,7 +15,7 @@ keywords: ["Moses Makola", "About", "Data Scientist", "Alan Turing Institute", "
 
 I’m currently a data science MSc student at the University of Leeds and an incoming intern at the Alan Turing Institute. My work spans software engineering, machine learning and data science in industries such as finance and social impact
 
-{{<button href="MosesMakolaResumeMarch2025.pdf">}}
+{{<button href="MosesMakolaResumeApril2025.pdf">}}
     Latest Resume
 {{</button>}}
 
@@ -115,7 +115,7 @@ Topics I regularly speak on include: ethical machine learning, AI for social goo
 
 **Frameworks:** FastAPI, Firebase, React, Node.js, Tailwind, React Native, Hugo, Streamlit 
 
-**DevOps & Tools:** Git, Google Colab, VS Code, Tableau, Postman  
+**DevOps & Tools:** Git, Tableau, Postman, Github Actions
 
 **Cloud:** AWS
 
