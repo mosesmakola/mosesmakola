@@ -13,6 +13,8 @@ showTableOfContents: true
 draft: false
 keywords: ["Moses Makola", "About", "Data Scientist", "Alan Turing Institute", "University of Leeds", "J.P. Morgan", "Ethical AI", "Voice Technology", "Healthcare AI", "Machine Learning", "Low Resource Languages"]
 ---
+16082025: <br>
+Update on content, added experience from Alan Turing Institute internship and updated CV
 
 03042025: <br>
 Initial launch of the site, placeholder pages for projects and resources
