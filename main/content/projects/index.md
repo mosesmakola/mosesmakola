@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Moses Makola is a data science MSc student at the University of Leeds and incoming intern at the Alan Turing Institute. He has experience at J.P. Morgan and Global Purpose Enterprise, and has delivered talks on ethical AI and voice translation at major conferences."
+description: "Moses Makola is a Data Science (Statistics) MSc student at the University of Leeds. He has experience at J.P. Morgan and The Alan Turing Institute, and has delivered talks on ethical AI and voice translation at major conferences."
 showAuthor: false
 showDate: false
 showHero: true
