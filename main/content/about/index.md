@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Moses Makola is a data science MSc student at the University of Leeds and incoming intern at the Alan Turing Institute. He has experience at J.P. Morgan and Global Purpose Enterprise, and has delivered talks on ethical AI and voice translation at major conferences."
+description: "Moses Makola is a Data Science (Statistics) MSc student at the University of Leeds. He has experience at J.P. Morgan and The Alan Turing Institute, and has delivered talks on ethical AI and voice translation at major conferences."
 showAuthor: false
 showDate: false
 showHero: true
@@ -13,9 +13,9 @@ draft: false
 keywords: ["Moses Makola", "About", "Data Scientist", "Alan Turing Institute", "University of Leeds", "J.P. Morgan", "Ethical AI", "Voice Technology", "Healthcare AI", "Machine Learning", "Low Resource Languages"]
 ---
 
-I’m currently a data science MSc student at the University of Leeds and an incoming intern at the Alan Turing Institute. My work spans software engineering, machine learning and data science in industries such as finance and social impact
+I’m currently a Data Science (Statistics) MSc student at the University of Leeds. My work spans software engineering, machine learning and data science in industries such as finance and government.
 
-{{<button href="MosesMakolaResumeApril2025.pdf">}}
+{{<button href="MosesMakolaResumeAug2025.pdf">}}
     Latest Resume
 {{</button>}}
 
@@ -39,11 +39,15 @@ Dissertation: CashFlo, enhancing personal finance through Open Banking and an AI
 
 ## Industry Experience
 
-**Incoming Data Science Intern — Alan Turing Institute**  
+**Research Data Science Intern — The Alan Turing Institute**  
 *June 2025 – August 2025*  
-Selected for the Health Data Science Black Internship Programme
+Worked within the Research Engineering Group (REG) as part of the Turing.jl team, focusing on porting epidemiological modelling materials from R/Stan into Julia to improve accessibility and usability for researchers.
 
-Will work on developing new models and submodels in the Turing.jl (Julia) library, ensuring that different models can be composed together to form a larger model
+Developed and ported statistical models into Julia using Turing.jl enabling reproducible Bayesian inference workflows in epidemiological research.
+
+Built simulation utilities for generating and handling epidemiological data, supporting experiments on delay distributions, censoring and truncation.
+
+Tested models on both simulated and real data, validating outputs and ensuring robustness of the implementations.
 
 **Junior Software Engineer — Global Purpose Enterprise**  
 *May 2024 – Nov 2024*  
